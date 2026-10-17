@@ -1,7 +1,9 @@
 # ByteWyrm
-https://giphy.com/gifs/Rageguy-hacker-rageguy-rage-guy-onqm2IiY4fX7Zsghp9
-https://giphy.com/gifs/14kdiJUblbWBXy
-https://giphy.com/gifs/loop-glitch-matrix-3og0IAIsfBiw1eQ2R2
+
+<img width="500" height="221" alt="image" src="https://github.com/user-attachments/assets/dcc3ab7c-a090-4574-8a02-e632e5379d77" />
+
+
+
 Legacy Python Malware Analysis Sample
 Static analysis / archival research. This repository contains destructive file-handling code and a remote-control server. Do not execute these samples on a personal, production, or shared system.
 

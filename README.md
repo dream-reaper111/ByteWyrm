@@ -87,6 +87,6 @@ Research Roadmap
 Status and Attribution
 Status: Legacy source sample; reviewed statically only. None of the scripts were executed to prepare this README.
 Author Credit
-Originally written by Tristan Swickard (deadbyte.dll) at age 15.
+Originally is me (deadbyte.dll) at age 15.
 Preserved as an early programming and cybersecurity project, documenting the author’s learning at that age. Authorship and age are credited according to the author’s account; an exact creation date has not been established.
 A license was not supplied. Preserve any third-party notices and verify redistribution rights before publishing.
